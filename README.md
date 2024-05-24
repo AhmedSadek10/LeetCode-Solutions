@@ -2,7 +2,7 @@
 
 ![LeetCode](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png)
 
-Welcome to my LeetCode solutions repository! This repository contains my solutions to various LeetCode problems. Each solution is implemented in Java (or the language of your choice) and includes detailed explanations and comments.
+Welcome to my LeetCode solutions repository! This repository contains my solutions to various LeetCode problems. Each solution is implemented in Java  and includes detailed explanations and comments.
 
 
 ## Introduction
